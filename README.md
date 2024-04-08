@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Willem De Bie, a student at the Thomas More University of Applied Sciences.
+I'm Willem, a student at the Thomas More University of Applied Sciences.
 
 - 🌱 I’m currently learning PHP Laravel and Python Pandas
 - 🔭 I’m looking to collaborate on any FOSS projects
