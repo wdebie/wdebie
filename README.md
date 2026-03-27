@@ -2,5 +2,5 @@
 
 Student at the Thomas More University of Applied Sciences. Linux enthusiast.
 
-- 📫 hi@wdebie.eu
+- 📫 wdebie@tuta.com
 - ℹ️ [linkedin.com/in/wdebie](https://linkedin.com/in/wdebie)
